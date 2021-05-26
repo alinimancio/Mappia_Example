@@ -194,6 +194,11 @@
 				<Title>txt_galerias</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:pts_mapeamento</Name>
+				<Title>pts_mapeamento</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
